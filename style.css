@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin:0;
+}
+header{
+    margin:30px;
+    margin-bottom: 50px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+}
+body{
+    text-align: center;
+    padding:10px;
+}
+.contain{
+    margin: 0 auto;
+    padding:50px;
+    width:60%;
+}
+button{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    margin:10px;
+    padding:5px;
+
+    height:80px;
+    width:200px;
+    outline:none;
+    border:none;
+    border-radius: 50px;
+}
+button:hover{
+    background-color:darkgray;
+    cursor:pointer;
+    border-radius: 25px;
+    transition: .1s;
+}
