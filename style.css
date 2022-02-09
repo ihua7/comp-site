@@ -28,10 +28,11 @@ button{
     outline:none;
     border:none;
     border-radius: 50px;
+    transition: .1s;
 }
 button:hover{
-    background-color:darkgray;
+    background-color:rgb(148, 243, 229);
     cursor:pointer;
-    border-radius: 25px;
+    border-radius: 30px;
     transition: .1s;
 }
